@@ -8,4 +8,4 @@ bir kuaför salonunun ürünler ve hizmetler broşürünün basit bir web sayfas
 <img src="https://i.hizliresim.com/b9uls3q.png" style="width:50px;height:50px;">
 </p>
 
-<p><a href="https://yunsemrecetin.github.io/modernkuafor/">Ön izlemek için tıkla</a></p>
+<p><a href="https://yunsemrecetin.github.io/modernkuafor/">Sayfaya gitmek için tıkla</a></p>
