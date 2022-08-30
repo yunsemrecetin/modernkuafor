@@ -1,0 +1,64 @@
+body {
+	background-image: url('https://i.hizliresim.com/6ljvvs8.jpg');
+	font-family: sans-serif;
+}
+
+.card {
+	background-color: white;
+	width: 80%;
+	opacity: 0.9;
+	padding: 40px;
+	max-width: 750px;
+	margin: 20px auto;
+}
+
+.em {
+	font-style: italic;
+}
+
+hr {
+	height: 4px;
+	background-color: #88ced7;
+	border-color: #88ced7;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h1, h2 {
+	margin-bottom: 12px;
+}
+
+h1, h2, p {
+	text-align: center;
+	margin-top: 0;
+}
+
+.item p {
+	display: inline-block;
+}
+
+.hizmet {
+	width: 70%;
+	text-align: left;
+}
+
+.fiyat {
+	width: 30%;
+	text-align: right;
+}
+
+.sembol {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+/*FOOTER*/
+footer a {
+	color:black;
+}
+
+footer a:hover {
+	color:#89a6d6;
+}
